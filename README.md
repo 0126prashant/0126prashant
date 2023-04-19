@@ -1,4 +1,4 @@
-# 0126prashant.github.io
+# 0126prashant / README.md
 <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="200px" width="100%" align="center" />
 
 <h1 align="center">Hi 👋, I'm Prashant som</h1>
