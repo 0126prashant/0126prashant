@@ -1,5 +1,5 @@
 # 0126prashant / README.md
-<img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="200px" width="100%" align="center" />
+<!-- <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="200px" width="100%" align="center" /> -->
 
 <h1 align="center">Hi 👋, I'm Prashant som</h1>
 <h3 align="center">"Passionate full-stack developer with expertise in developing and deploying web applications, leveraging both client-side and server-side technologies."</h3>
