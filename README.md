@@ -73,6 +73,7 @@
   Visitor count <br><br>
   <img  src="https://profile-counter.glitch.me/0126prashant/count.svg" />
 </h3>
+<a href="https://github.com/0126prashant"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=0126prashant&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
