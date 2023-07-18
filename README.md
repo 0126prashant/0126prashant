@@ -19,7 +19,7 @@
 
 - 🤔 Check Out my <a href="https://drive.google.com/drive/folders/1ZjOWLe0iY3rilwh9GnDyrswJFiKuulM9-----00000">Resume</a><br><br>
 
-- 📫  Know more about me <a href="https://github.com/0126prashant/0126prashant.github.io">Portfolio</a><br><br>
+- 📫  Know more about me <a href="https://0126prashant.github.io/">Portfolio</a><br><br>
 
 - 👯 I’m looking to collaborate on **Projects*
 
