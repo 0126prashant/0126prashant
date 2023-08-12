@@ -27,7 +27,7 @@
 
 - 📫 How to reach me <a href="prashantsom75@gmail.com">prashantsom75@gmail.com</a>
 
--  💬 Ask me about HTML, CSS, JavaScript, React, Chakra-Ui, Redux, Node.js<br><br>
+-  💬 Ask me about HTML, CSS, JavaScript, React, Redux, Node-Js, Express, MongoDb<br><br>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
