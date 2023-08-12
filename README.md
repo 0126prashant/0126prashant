@@ -2,7 +2,7 @@
 <!-- <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="200px" width="100%" align="center" /> -->
 
 <h1 align="center">Hi 👋, I'm Prashant som</h1>
-<h3 align="center">"Passionate full-stack developer with expertise in developing and deploying web applications, leveraging both client-side and server-side technologies."</h3>
+<h3 align="center">As a passionate full-stack developer, I excel in creating and deploying robust web applications, seamlessly harnessing the power of both client-side and server-side technologies.</h3>
 
 
 
